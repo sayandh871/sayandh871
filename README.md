@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Sayandh
+---
 
-Aspiring CTO and full-stack web developer passionate about building clean and scalable applications. Currently building **Wanderlust** — an Airbnb-like platform.
+
+
+ I'm a self-taught full-stack developer passionate about building scalable systems and exploring the intersection of system design, AI/ML, cybersecurity, and DevOps. I enjoy turning ideas into efficient solutions, whether it's backend architecture, automation, or secure APIs
+
+
 
 ---
 
