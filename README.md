@@ -4,12 +4,20 @@ Aspiring CTO and full-stack web developer passionate about building clean and sc
 
 ---
 
-## 🧠 About Me
+# 👋 About Me
 
-- 🔧 Tech explorer: Raspberry Pi, Jetson Nano, clustering projects
-- 🚀 Learning backend and API development deeply
-- 🎯 Goal: Become a world-class technical leader (CTO)
-- 🌱 Currently mastering: Express.js, MongoDB, GitHub workflows
+📚 Learning **API design**, **authentication**, and **deployment workflows** using tools like Postman, JWT, and CI/CD pipelines.
+
+🧩 Exploring hardware with **Raspberry Pi**, and **cluster computing** for edge computing and personal server experiments.
+
+✍️ Documenting my journey and learnings through GitHub projects and personal notes.
+
+🎯 Aspiring to become a **Full Stack Developer** with a long-term goal of becoming a **Chief Technical Officer**.
+
+💬 Ask me about **Node.js**, **Express**, **MongoDB**, **RESTful APIs**, and clean **backend architecture**.
+
+📫 You can reach me on [GitHub](https://github.com/sayandh871), [Telegram](https://t.me/sayandh871), [Email](mailto:saysndh871@gmail.com), or via [Discord](https://discordapp.com/users/saayih)
+
 
 ---
 
