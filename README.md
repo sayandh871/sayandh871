@@ -41,9 +41,6 @@ Aspiring CTO and full-stack web developer passionate about building clean and sc
 - Languages: **C++**, Python (Basics)
 - Practicing on Codeforces, LeetCode, HackerRank
 
-### 🔬 Hardware & Edge Exploration
-- Raspberry Pi Projects
-- Jetson Nano, Clustering Experiments
 
 ### 🔄 DevOps & Workflows
 - Basic Docker
@@ -51,17 +48,6 @@ Aspiring CTO and full-stack web developer passionate about building clean and sc
 
 ---
 
-## 🧑‍💻 Currently Working On
-- **Wanderlust** – A full-stack Airbnb-like web app using the MERN stack
-
-## 📫 Contact
-- GitHub: [sayandh871](https://github.com/sayandh871)
-- Telegram: [@sayandh871](https://t.me/sayandh871)
-- Email: [saysndh871@gmail.com](mailto:saysndh871@gmail.com)
-- Discord: [saayih](https://discordapp.com/users/saayih)
-
-
----
 
 ## 📈 GitHub Stats
 
