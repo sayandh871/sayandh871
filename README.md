@@ -24,13 +24,42 @@ Aspiring CTO and full-stack web developer passionate about building clean and sc
 
 ---
 
-## 🛠️ Tech Stack
+# 🧰 Tech Stack & Interests
 
-**Languages:** JavaScript, TypeScript, Python  
-**Backend:** Node.js, Express.js, MongoDB  
-**Frontend:** HTML, CSS, Bootstrap, EJS  
-**Tools:** Git, GitHub, Postman, Docker  
-**Others:** Raspberry Pi, Jetson Nano, Linux CLI
+### 🔷 JavaScript / TypeScript
+- React.js, Node.js, Express.js
+- MongoDB (Mongoose), REST APIs
+- TailwindCSS, EJS
+- Version control: Git, GitHub
+
+### ⚙️ Backend & Tools
+- API Design, Authentication (JWT, OAuth)
+- MVC architecture, Express Routers
+- Postman, Thunder Client, Joi Validation
+
+### 💻 Competitive Programming
+- Languages: **C++**, Python (Basics)
+- Practicing on Codeforces, LeetCode, HackerRank
+
+### 🔬 Hardware & Edge Exploration
+- Raspberry Pi Projects
+- Jetson Nano, Clustering Experiments
+
+### 🔄 DevOps & Workflows
+- Basic Docker
+- Deployment: Render, Railway (Learning CI/CD)
+
+---
+
+## 🧑‍💻 Currently Working On
+- **Wanderlust** – A full-stack Airbnb-like web app using the MERN stack
+
+## 📫 Contact
+- GitHub: [sayandh871](https://github.com/sayandh871)
+- Telegram: [@sayandh871](https://t.me/sayandh871)
+- Email: [saysndh871@gmail.com](mailto:saysndh871@gmail.com)
+- Discord: [saayih](https://discordapp.com/users/saayih)
+
 
 ---
 
@@ -41,27 +70,6 @@ Aspiring CTO and full-stack web developer passionate about building clean and sc
 
 ---
 
-## 📌 Featured Project
-
-### 🌍 Wanderlust — Airbnb-like Web App
-
-> Full-stack platform to create, explore, and review property listings
-
-- 🔑 Auth with Passport.js  
-- 📁 Modular MVC structure with Express Router  
-- 🧪 Server-side validation with Joi  
-- 🗂️ EJS views with layout engine  
-- 🔧 MongoDB via Mongoose
-
-[🔗 GitHub Repo](https://github.com/sayandh871/wanderlust)
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 ---
 
