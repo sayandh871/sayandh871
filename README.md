@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayandh
 
-<!--
-**sayandh871/sayandh871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring CTO and full-stack web developer passionate about building clean and scalable applications. Currently building **Wanderlust** — an Airbnb-like platform.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔧 Tech explorer: Raspberry Pi, Jetson Nano, clustering projects
+- 🚀 Learning backend and API development deeply
+- 🎯 Goal: Become a world-class technical leader (CTO)
+- 🌱 Currently mastering: Express.js, MongoDB, GitHub workflows
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python  
+**Backend:** Node.js, Express.js, MongoDB  
+**Frontend:** HTML, CSS, Bootstrap, EJS  
+**Tools:** Git, GitHub, Postman, Docker  
+**Others:** Raspberry Pi, Jetson Nano, Linux CLI
+
+---
+
+## 📈 GitHub Stats
+
+![Sayandh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayandh871&show_icons=true&theme=default&hide=prs&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayandh871&layout=compact&theme=default)
+
+---
+
+## 📌 Featured Project
+
+### 🌍 Wanderlust — Airbnb-like Web App
+
+> Full-stack platform to create, explore, and review property listings
+
+- 🔑 Auth with Passport.js  
+- 📁 Modular MVC structure with Express Router  
+- 🧪 Server-side validation with Joi  
+- 🗂️ EJS views with layout engine  
+- 🔧 MongoDB via Mongoose
+
+[🔗 GitHub Repo](https://github.com/sayandh871/wanderlust)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
+
+---
+
+> 📍 Always learning, always building. Let’s connect!
