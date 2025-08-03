@@ -6,17 +6,20 @@ Aspiring CTO and full-stack web developer passionate about building clean and sc
 
 # 👋 About Me
 
-📚 Learning **API design**, **authentication**, and **deployment workflows** using tools like Postman, JWT, and CI/CD pipelines.
+🛠️ Full Stack Developer (MERN) | Exploring hardware & APIs
 
-🧩 Exploring hardware with **Raspberry Pi**, and **cluster computing** for edge computing and personal server experiments.
+💡 Building **Wanderlust**, an Airbnb-like web app
 
-✍️ Documenting my journey and learnings through GitHub projects and personal notes.
+🔍 Learning **API design**, **auth**, & **CI/CD** workflows
 
-🎯 Aspiring to become a **Full Stack Developer** with a long-term goal of becoming a **Chief Technical Officer**.
+🧩 Exploring **Raspberry Pi** & **clusters** for edge projects
 
-💬 Ask me about **Node.js**, **Express**, **MongoDB**, **RESTful APIs**, and clean **backend architecture**.
+📘 Sharing projects & notes on GitHub
 
-📫 You can reach me on [GitHub](https://github.com/sayandh871), [Telegram](https://t.me/sayandh871), [Email](mailto:saysndh871@gmail.com), or via [Discord](https://discordapp.com/users/saayih)
+💬 Ask me about **Node.js**, **Express**, **MongoDB**, **REST APIs**
+
+📫 Reach me on [GitHub](https://github.com/sayandh871), [Telegram](https://t.me/sayandh871), [Email](mailto:saysndh871@gmail.com), [Discord](https://discordapp.com/users/saayih)
+
 
 
 ---
