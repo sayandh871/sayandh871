@@ -4,9 +4,7 @@
 <h3 align="center">🚀 Backend-Focused Software Engineer | Building Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/sayandh871">
-    <img src="https://komarev.com/ghpvc/?username=sayandh871&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sayandh871&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -92,8 +90,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayandh871&show_icons=true&theme=default&hide=prs&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandh871&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayandh871&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=sayandh871&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandh871&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayandh871&theme=tokyonight" />
 </p>
 
 ---
